@@ -1,0 +1,416 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Comic+Neue&display=swap');
+body{
+        font-family: 'Comic Neue';
+    }
+
+    button{
+        background: #52B0C5;
+        border-radius: 30px;
+        font-family: 'Comic Neue';
+        font-size: 32px;
+        line-height: 37px;
+        color: #FFFFFF;
+        border:none;
+  }
+  a{
+    position: absolute;
+    font-size: 36px;
+    line-height: 41px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+    text-decoration: none;
+    margin-top: 0px;
+          width: 212px;
+          height: 70px;
+          top: 30px;
+    }
+    a:hover{
+          text-decoration: underline;
+    }
+    .home-button
+{
+      position: absolute;
+      width: 328px;
+      height: 91px;
+      left: 30px;
+      top: -25px;
+      margin-top:0px;
+      margin-left:0px;
+      
+      font-family: 'Cedarville Cursive';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 64px;
+      line-height: 121px;
+      
+      color: #000000;
+}
+.About-us
+{
+      
+      left: 468px;
+      
+
+}
+.All-collection{
+      left: 650px;
+      
+}
+.Pricing{
+      left: 900px;
+}
+.cart{
+      position:absolute;
+      width: 75px;
+      height: 75px;
+      left:1200px;
+      top: 0px;
+      margin-top:0px;
+
+}
+.sign-up{
+      position: absolute;
+      width: 150px;
+      height: 70px;
+      left: 1350px;
+      top: 5px;
+
+}
+.sign-up:hover{
+      background-color: black;
+}
+h1{
+
+position: absolute;
+width: 97%;
+height: 349px;
+left: 8px;
+top: 100px;
+
+font-family: 'Comic Neue';
+font-style: normal;
+font-weight: 700;
+font-size: 90px;
+line-height: 110px;
+
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+h2{
+    position: absolute;
+    top:350px;
+    font-size: 40px;
+    text-align: center;
+    left: 240px;
+}
+
+
+.button1 button{
+position: absolute;
+width: 1000px;
+height: auto;
+margin: 0 auto;
+left: 569px;
+top: 0px;
+background: #BCE2EB;
+border-radius: 30px;
+
+/* Learn More */
+
+
+position: absolute;
+width: 390px;
+height: 103px;
+left: 20%;
+top: 873px;
+
+font-family: 'Comic Neue';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 46px;
+
+align-items: center;
+text-align: center;
+
+color: #000000;
+}
+.button1 button:hover{
+    background-color: #52B0C5;
+}
+
+.button2 button{
+    /* Browse Collection Button */
+
+
+position: absolute;
+width: 1000px;
+height: auto;
+margin: 0 auto;
+left: 980px;
+top: 73px;
+background: #BCE2EB;
+border-radius: 30px;
+
+/* Subscribe Now */
+
+
+position: absolute;
+width: 390px;
+height: 103px;
+left: 60%;
+top: 873px;
+
+font-family: 'Comic Neue';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 46px;
+
+align-items: center;
+text-align: center;
+
+color: #000000;
+}
+.button2 button:hover{
+    background-color: #52B0C5;
+}
+
+#OurStory a{
+    /* Our Story */
+
+
+position: absolute;
+width: 1000px;
+height: auto;
+margin: 0 auto;
+left: 346px;
+top: 1101px;
+
+font-family: 'Comic Neue';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 74px;
+
+align-items: center;
+text-align: center;
+text-decoration-line: underline;
+
+color: #52B0C5;
+}
+#OurStory a:hover{
+    color: #2a2afe;
+    
+}
+p6{
+    /* It all began with a small dream...... */
+
+
+position: absolute;
+width: 60%;
+height: 155px;
+left: 398px;
+top: 1201px;
+
+font-family: 'Comic Neue';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 74px;
+
+align-items: center;
+text-align: center;
+
+color: #0b0b0b;
+}
+
+
+img{
+    /* undraw_reading_time_re_phf7 1 */
+
+
+position: absolute;
+width: 915px;
+height: 556px;
+left: 25%;
+top: 1329px;
+
+
+}
+
+p{
+    
+
+    position: absolute;
+    width: 100%;
+    height: 418px;
+    left: 15px;
+
+    top: 1879px;
+    
+    font-family: 'Comic Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 41px;
+    
+    align-items: center;
+    
+    color: #000000;
+    
+    }
+    
+ 
+.footer{
+    background: #636363;
+    position: absolute;
+    width: 100%;
+    height: 341px;
+    left: 0px;
+    top: 2197px;
+}
+
+p2{
+        /* Contact Us: Bibliophilia@gmail.com Helpline: 180019204231 */
+position: absolute;
+width: 414px;
+height: 123px;
+left: 72%;
+top: 22px;
+
+font-family: 'Comic Neue';
+font-style: normal;
+font-weight: 400;
+font-size: 46px;
+line-height: 61px;
+
+align-items: center;
+
+color: #ffffff;
+
+    }
+
+p1{
+position: absolute;
+width: 494px;
+height: 205px;
+left: 13px;
+top: 22px;
+
+font-family: 'Comic Neue';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 61px;
+
+align-items: center;
+
+color:#ffffff;
+}
+#About a{
+    /* About Us */
+position: absolute;
+width: 140px;
+height: 41px;
+left: 45%;
+top: 22px;
+
+font-family: 'Comic Neue';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 41px;
+
+align-items: center;
+text-decoration-line: underline;
+
+color: #ffffff;
+}
+#About a:hover{
+    color: #2a2afe;
+}
+#Price a{
+    /* Pricing */
+position: absolute;
+width: 108px;
+height: 41px;
+left: 45.5%;
+top: 90px;
+
+font-family: 'Comic Neue';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 41px;
+
+align-items: center;
+text-decoration-line: underline;
+
+color: #ffffff;
+
+}
+#Price a:hover{
+    color: #2a2afe;
+}
+
+#Comm a{
+    /* Community */
+
+
+position: absolute;
+width: 174px;
+height: 41px;
+left: 45%;
+top: 160px;
+
+font-family: 'Comic Neue';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 41px;
+
+align-items: center;
+text-decoration-line: underline;
+
+color: #ffffff;
+}
+#Comm a:hover{
+    color: #2a2afe;
+}
+
+#instagram img{
+position: absolute;
+width: 73px;
+height: 72px;
+left: 1210px;
+top: 261px;
+
+background: url(image.png);
+}
+
+#instagram img:hover{
+    filter: brightness(50%);
+}
+
+#twitter img{
+    position: absolute;
+width: 77px;
+height: 77px;
+left: 1310px;
+top: 261px;
+
+background: url(image.png);
+}
+
+#twitter img:hover{
+    filter: brightness(50%);
+}
+
+

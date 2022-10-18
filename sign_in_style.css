@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Comic+Neue&display=swap');
+body {
+    background-image: url('assets/bg.jpg');
+    background-size: cover;
+    font-family: 'Comic Neue';
+    background-repeat: no-repeat;
+    -webkit-filter: 2px;
+    filter: 2px;
+}
+
+.OuterContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.cen {
+    display: flex;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.LeftContainer {
+    align-self: left;
+    font-family: "Cedarville Cursive";
+    font-size: 40px;
+    font-weight: 400;
+    padding-left: -10%;
+    padding-right: 10%;
+}
+
+.RightContainer {
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+button {
+    padding: 3px 25px;
+    border-radius: 22px;
+    border: 2px solid;
+    font-size: 15px;
+    font-family: 'Comic neu';
+    font-weight: 300;
+    cursor: pointer;
+    text-align: center;
+    width: 230px;
+}
+
+h3 {
+    font-family: 'Cedarville Cursive';
+    font-style: italic;
+    font-weight: lighter;
+    font-size: large;
+}
+
+h3.or {
+    font-family: "Comic Neue";
+    font-size: medium;
+}
+
+input {
+    font-family: "Comic neu";
+    border: none;
+    border-bottom: solid 2px;
+    border-color: black;
+    width: 210px;
+}
+
+.gbtn {
+    border-color: black;
+}
+
+.fbtn {
+    background-color: #0FAAED;
+    color: white;
+    border-color: white;
+    justify-content: center;
+}
+
+.abtn {
+    background-color: #000000;
+    color: white;
+    border-color: white;
+    justify-content: center;
+}
+
+.imgSize {
+    width: 20px;
+    padding-right: 3px;
+}
+
+.signupbtn {
+    padding: 1px 5px;
+    background-color: #52B0C5;
+    color: white;
+    width: 70px;
+    float: right;
+}

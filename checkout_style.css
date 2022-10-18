@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Comic+Neue&display=swap');
+*{
+    font-family: 'Comic Neue';
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+} 
+
+nav{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    padding-left: 80px;
+    padding-right: 80px;
+    border-bottom: 2px solid silver;
+    background-color: #D6D6D6;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+.logoWord{
+    font-size: 50px;
+    font-family: 'Cedarville Cursive';
+}
+
+.first{
+    width: 50%;
+}
+.second{
+    width: 50%;
+    text-align: right;
+}
+
+.icon img{
+    height: 45px;
+    width: 45px;
+}
+
+h1{
+    margin: 30px;
+    margin-left: 80px;
+}
+.mainPage{
+    margin: 40px;
+    margin-left: 100px;
+    display: flex;
+}
+.col1{
+    width: 50%;
+    margin-right: 80px;
+}
+.col2{
+    width: 30%;
+}
+
+.numOfOrders{
+    border-bottom: 2px solid black;
+    padding: 10px;
+    padding-bottom: 20px;
+    margin-bottom: 10px;
+}
+.orderDetails{
+    border-bottom: 2px solid black;
+    padding: 10px;
+    padding-bottom: 20px;
+    margin-bottom: 10px;
+    color: #918F8F;
+}
+
+.bookDetails{
+    display: flex;
+    margin-bottom: 20px;
+}
+.col3{
+    width: 40%;
+}
+.col3 img{
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    /* padding-left: 40px; */
+    margin-left: 60px;
+}
+
+.col4{
+    width: 60%;
+}
+
+.bookTitle{
+    padding-top: 20px;
+    font-size: 20px;
+}
+
+.author{
+    font-size: 12px;
+    margin-bottom: 20px;
+}
+
+.btn1{
+    width: 130px;
+    border-radius: 12px;
+    padding: 5px;
+    background-color: #4D4D4D;
+    color: white;
+}
+.btn2{
+    width: 130px;
+    border-radius: 12px;
+    padding: 5px;
+    background-color: #D6D6D6;
+}
+
+.col4 img{
+    width: 35px;
+    height: 35px;
+    margin: 15px;
+}
+
+.orderSummary{
+    background-color: #D6D6D6;
+    margin: 10px;
+    margin-top: 80px;
+    padding: 20px;
+    border-radius: 12px;
+}
+
+.oSC{
+    display: flex;
+    margin-bottom: 40px;
+}
+
+.sumDet{
+    margin-top: 20px;
+}
+.sumDetT{
+    margin-top: 20px;
+    border-bottom: 2px solid black;
+    border-top: 2px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.col21{
+    width: 70%;
+}
+.col22{
+    width: 30%;
+}

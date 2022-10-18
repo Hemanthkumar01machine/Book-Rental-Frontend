@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Comic+Neue&display=swap');
+body{
+    font-family:'Comic Neue';
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+.header{
+    font-family: 'Cedarville Cursive';
+    
+}
